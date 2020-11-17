@@ -1,0 +1,41 @@
+body{
+    margin: auto 0;
+}
+
+header{
+    height: 200px;
+    background-color: white;
+}
+
+.nav-item a{
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-image: url("images/jumbotron.jpg");
+    background-size: cover;
+    color:white;
+    font-weight: bold;
+    height:650px;
+    margin-bottom: 0;
+}
+.jumbotron_title{
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+}
+.lead{
+    padding: 2rem 1rem;
+}
+.btn-rounded{
+    color:grey;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: darkgray;
+    color:darkgreen;
+}
+footer h4{
+    color: black;
+}
