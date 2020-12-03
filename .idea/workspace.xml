@@ -23,6 +23,17 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cupcakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/cupcakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/FreshBakinglogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cookie_normale_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookie_normale_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cookie_snow_white.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookie_snow_white.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cookies_arahide.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookies_arahide.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cookieslamaie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookieslamaie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/covrigi.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghriba.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/ghriba.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/saleuri_rulate.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sarate/saleuri_rulate.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/turtadulce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/turtadulce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/twitter-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/youtube-logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/placinte.html" beforeDir="false" afterPath="$PROJECT_DIR$/placinte.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sarate.html" beforeDir="false" afterPath="$PROJECT_DIR$/sarate.html" afterDir="false" />
@@ -45,6 +56,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/prajituriasortate.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <hideBySeverity>
       <option value="15" />
@@ -64,18 +78,30 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dani\WebstormProjects\ListaPrajituri\images" />
-      <recent name="C:\Users\Ramona\WebstormProjects\ListaPrajituri\images" />
-      <recent name="C:\Users\Ramona\WebstormProjects\ListaPrajituri" />
-      <recent name="C:\Users\Dani\WebstormProjects\ListaPrajituri" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ramona\WebstormProjects\ListaPrajituri\images" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dani\WebstormProjects\ListaPrajituri\images" />
+      <recent name="C:\Users\Dani\WebstormProjects\ListaPrajituri\images\placinte" />
+      <recent name="C:\Users\Dani\WebstormProjects\ListaPrajituri\images\cupcakes" />
+      <recent name="C:\Users\Dani\WebstormProjects\ListaPrajituri\images\cookies" />
+      <recent name="C:\Users\Dani\WebstormProjects\ListaPrajituri\images\asortate" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="prajituriasortate.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ListaPrajituri/prajituriasortate.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.prajituriasortate.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +113,9 @@
       <updated>1605636598141</updated>
       <workItem from="1605636599422" duration="8593000" />
       <workItem from="1605699621841" duration="10493000" />
-      <workItem from="1606230436861" duration="13690000" />
+      <workItem from="1606230436861" duration="13749000" />
+      <workItem from="1606316923609" duration="12618000" />
+      <workItem from="1607002499409" duration="19401000" />
     </task>
     <servers />
   </component>
@@ -105,20 +133,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="689" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605710241924">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="689" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.2.1280.984@0.0.1920.1040" timestamp="1605641343745" />
-    <state x="689" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605710241924" />
-    <state x="776" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606230219820">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="776" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1280.2.1280.984@0.0.1920.1040" timestamp="1606230219820" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605646052536">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1280.2.1280.984@0.0.1920.1040" timestamp="1605646052536" />
   </component>
 </project>

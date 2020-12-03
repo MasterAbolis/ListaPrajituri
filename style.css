@@ -1,116 +1,23 @@
-body{
-    margin: 0;
-    background-color: rgb(69, 123, 157);
-}
-
-header{
-    display:grid;
-    position:fixed;
-    height: 200px;
-    background-color: rgb(241, 250, 238);
-    z-index: 10;
-}
-
-header img{
-    justify-self: center;
-}
-h6{
-    color: rgb(69, 123, 157);
-}
-h5, h6{
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-
-}
-
-.navbar{
-    background-color: rgb(168, 218, 220);
-    position:fixed;
-    top:200px;
-    z-index:10;
-    font-weight: bold;
-}
-
-.nav-color{
-    background-color: rgb(168, 218, 220);
-    position:fixed;
-    top:200px;
-    z-index:10;
-}
-
-.container img{
-    width: 100%;
-    background-size: cover;
-}
-.background-image{
-    padding: 0;
-    margin: 0;
-    position: relative;
-    top:255px;
-}
-.container{
-    max-width: 100%;
-    box-sizing: content-box;
-    padding: 0;
-    margin: 0;
-    color: rgb(69, 123, 157);
-}
-
-.produse{
-    display: flex;
-    flex-flow: wrap;
-    position:relative;
-    top:255px;
-    background-color: rgb(69, 123, 157);
-}
-.produs{
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    position: relative;
-    height: auto;
-    width: 100%;
-    padding: 1%;
-    margin: 10px;
-    flex-grow: 1;
-    flex-basis: 31%;
-    background-color: white;
-    border: 5px solid rgb(168, 218, 220);
-}
-
-.informatii_produs{
-    margin: 10px;
-}
-.informatii_produs h5{
-    font-weight: bold;
-    font-family: Arial, sans-serif;
-}
-
-.informatii_produs h6{
-
-}
-.imagine_produs{
-    align-self: center;
-}
-.imagine_produs img{
-    width: 300px;
-    height: 300px;
-    margin: 5px;
-    transition: all 1s;
-}
-
-
-.imagine_produs img:hover{
-    transform: scale(1.1);
-}
-
-.imagine_produs img:on
 footer{
-    text-align: center;
-    padding: 3px;
-    background-color: rgb(29, 53, 87);
-    color:darkgreen;
+    background-color: #4F5D5A;
+    color:white;
 }
-footer a{
-    margin:0 10px;
+
+body{
+    background-color: #838D8B;
+    min-width: 100%;
+}
+
+.container{
+    position:relative;
+    top:150px;
+    bottom:75px;
+}
+
+
+.card{
+    transition: transform .2s;
+}
+.card:hover{
+    transform: scale(1.1);
 }
