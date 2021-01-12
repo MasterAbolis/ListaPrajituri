@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="141bf995-14e0-471e-9821-e1da867bdd5d" name="Default Changelist" comment="">
+    <list default="true" id="141bf995-14e0-471e-9821-e1da867bdd5d" name="Default Changelist" comment="Added prajitura cu nuca de cocos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/placinte.html" beforeDir="false" afterPath="$PROJECT_DIR$/placinte.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prajituriasortate.html" beforeDir="false" afterPath="$PROJECT_DIR$/prajituriasortate.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,8 +101,16 @@
       <workItem from="1606230436861" duration="13749000" />
       <workItem from="1606316923609" duration="12618000" />
       <workItem from="1607002499409" duration="19565000" />
-      <workItem from="1610435246488" duration="8015000" />
+      <workItem from="1610435246488" duration="9059000" />
     </task>
+    <task id="LOCAL-00001" summary="Added prajitura cu nuca de cocos">
+      <created>1610443340773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610443340773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +127,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added prajitura cu nuca de cocos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added prajitura cu nuca de cocos" />
   </component>
 </project>
