@@ -21,24 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="141bf995-14e0-471e-9821-e1da867bdd5d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cupcakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/cupcakes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/FreshBakinglogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cookie_normale_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookie_normale_2.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cookie_snow_white.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookie_snow_white.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cookies_arahide.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookies_arahide.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cookieslamaie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/cookieslamaie.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/covrigi.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ghriba.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/ghriba.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/saleuri_rulate.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sarate/saleuri_rulate.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/turtadulce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cookies/turtadulce.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/twitter-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/youtube-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/placinte.html" beforeDir="false" afterPath="$PROJECT_DIR$/placinte.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sarate.html" beforeDir="false" afterPath="$PROJECT_DIR$/sarate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/torturi.html" beforeDir="false" afterPath="$PROJECT_DIR$/torturi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +62,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -115,7 +99,8 @@
       <workItem from="1605699621841" duration="10493000" />
       <workItem from="1606230436861" duration="13749000" />
       <workItem from="1606316923609" duration="12618000" />
-      <workItem from="1607002499409" duration="19401000" />
+      <workItem from="1607002499409" duration="19565000" />
+      <workItem from="1610435246488" duration="604000" />
     </task>
     <servers />
   </component>
