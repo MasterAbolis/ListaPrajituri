@@ -10,7 +10,7 @@ body{
 
 .container{
     position:relative;
-    top:150px;
+    top:75px;
     bottom:75px;
 }
 
@@ -29,10 +29,5 @@ body{
         left:50%;
         transform: translateX(-50%);
     }
-    nav .navbar{
-        height: 100px !important;
-    }
-    .container{
-        top:75px;
-    }
+
 }

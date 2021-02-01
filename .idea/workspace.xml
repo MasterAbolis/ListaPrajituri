@@ -26,10 +26,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cupcakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/cupcakes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/placinte.html" beforeDir="false" afterPath="$PROJECT_DIR$/placinte.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prajituriasortate.html" beforeDir="false" afterPath="$PROJECT_DIR$/prajituriasortate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sarate.html" beforeDir="false" afterPath="$PROJECT_DIR$/sarate.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/torturi.html" beforeDir="false" afterPath="$PROJECT_DIR$/torturi.html" afterDir="false" />
     </list>
@@ -118,7 +115,8 @@
       <workItem from="1606230436861" duration="13749000" />
       <workItem from="1606316923609" duration="12618000" />
       <workItem from="1607002499409" duration="19565000" />
-      <workItem from="1610435246488" duration="20344000" />
+      <workItem from="1610435246488" duration="21337000" />
+      <workItem from="1612214883489" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="Added prajitura cu nuca de cocos">
       <created>1610443340773</created>
