@@ -30,4 +30,13 @@ body{
         transform: translateX(-50%);
     }
 
+    .jumbotron h2 {
+        font-size:30px;
+    }
+
+    .jumbotron p {
+        font-size: 15px;
+    }
+
+
 }
